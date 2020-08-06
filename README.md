@@ -11,3 +11,8 @@ In this project we will learn how to deploy a Web API to `heroku`.
 ## Instructions
 
 Please fork this repository and follow along **using your fork** as the instructor deploys the API to `heroku`.
+
+## Steps
+
+- Make the Port dynamic
+- Add a "start" script to package.json using node to run the index. "start": "node index.js"
